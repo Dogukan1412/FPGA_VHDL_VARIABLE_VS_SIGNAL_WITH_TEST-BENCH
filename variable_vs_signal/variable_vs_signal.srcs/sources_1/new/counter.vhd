@@ -2,6 +2,8 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 
+// test bench file is in the sim_1/new
+
 entity counter is
   Port ( clk : in bit;
         count1,count2 : out integer range 0 to 9
