@@ -2,7 +2,7 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 
-// test bench file is in the sim_1/new
+-- test bench file is in the sim_1/new
 
 entity counter is
   Port ( clk : in bit;
